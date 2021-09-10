@@ -16,7 +16,8 @@ HerokuLink https://dry-savannah-76724.herokuapp.com/
 ## Description
 Redux Store  is an e-commerce application that allows users to shop for various items, add  products to the shopping cart, manage the shopping cart by increasing and decreasing quantities, check out their purchases and see their order history.
 ## Installation 
-In the compand line run npm i and install all the needed dependencies.
+Clone this repository to receive all my files. Once you have my code make sure you are in the correct file directory.
+in the command line run "npm install" in the terminal to download all the needed dependencies.
 ## Usage 
 Signup if you're a new user or log in if you're an existing user. Add or delete items in your shopping cart.
 ## License MIT
